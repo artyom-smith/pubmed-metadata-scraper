@@ -67,3 +67,5 @@ while True:
     break
   except:
     print('Error! You need to enter integer!')
+
+pubmed_articles_finder(search_value, count)
